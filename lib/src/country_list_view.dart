@@ -95,7 +95,7 @@ class _CountryListViewState extends State<CountryListView> {
 
     if (widget.exclude != null) {
       _countryList.removeWhere(
-        (element) => widget.exclude!.contains(element.countryCode),
+        (element) => widget.exclude!.contains(element.displayName),
       );
     }
 
