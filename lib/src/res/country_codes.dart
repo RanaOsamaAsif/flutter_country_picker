@@ -2522,6 +2522,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_key": "966-SA-0"
   },
   {
+    "e164_cc": "44",
+    "iso2_cc": "GB-SCT",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 1,
+    "name": "Scotland",
+    "example": "512345678",
+    "display_name": "Scotland (GB-SCT) [+44]",
+    "full_example_with_plus_sign": "+44512345678",
+    "display_name_no_e164_cc": "Scotland (GB-SCT)",
+    "e164_key": "44-GB-SCT-0"
+  },
+  {
     "e164_cc": "221",
     "iso2_cc": "SN",
     "e164_sc": 0,
