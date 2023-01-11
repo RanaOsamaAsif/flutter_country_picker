@@ -13,40 +13,40 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      supportedLocales: [
-        const Locale('en'),
-        const Locale('ar'),
-        const Locale('es'),
-        const Locale('de'),
-        const Locale('fr'),
-        const Locale('el'),
-        const Locale('et'),
-        const Locale('nb'),
-        const Locale('nn'),
-        const Locale('pl'),
-        const Locale('pt'),
-        const Locale('ru'),
-        const Locale('hi'),
-        const Locale('ne'),
-        const Locale('uk'),
-        const Locale('hr'),
-        const Locale('tr'),
-        const Locale('lv'),
-        const Locale('lt'),
-        const Locale('ku'),
-        const Locale.fromSubtags(
-            languageCode: 'zh',
-            scriptCode: 'Hans'), // Generic Simplified Chinese 'zh_Hans'
-        const Locale.fromSubtags(
-            languageCode: 'zh',
-            scriptCode: 'Hant'), // Generic traditional Chinese 'zh_Hant'
-      ],
-      localizationsDelegates: [
-        CountryLocalizations.delegate,
-        GlobalMaterialLocalizations.delegate,
-        GlobalCupertinoLocalizations.delegate,
-        GlobalWidgetsLocalizations.delegate,
-      ],
+      // supportedLocales: [
+      //   const Locale('en'),
+      //   const Locale('ar'),
+      //   const Locale('es'),
+      //   const Locale('de'),
+      //   const Locale('fr'),
+      //   const Locale('el'),
+      //   const Locale('et'),
+      //   const Locale('nb'),
+      //   const Locale('nn'),
+      //   const Locale('pl'),
+      //   const Locale('pt'),
+      //   const Locale('ru'),
+      //   const Locale('hi'),
+      //   const Locale('ne'),
+      //   const Locale('uk'),
+      //   const Locale('hr'),
+      //   const Locale('tr'),
+      //   const Locale('lv'),
+      //   const Locale('lt'),
+      //   const Locale('ku'),
+      //   const Locale.fromSubtags(
+      //       languageCode: 'zh',
+      //       scriptCode: 'Hans'), // Generic Simplified Chinese 'zh_Hans'
+      //   const Locale.fromSubtags(
+      //       languageCode: 'zh',
+      //       scriptCode: 'Hant'), // Generic traditional Chinese 'zh_Hant'
+      // ],
+      // localizationsDelegates: [
+      //   CountryLocalizations.delegate,
+      //   GlobalMaterialLocalizations.delegate,
+      //   GlobalCupertinoLocalizations.delegate,
+      //   GlobalWidgetsLocalizations.delegate,
+      // ],
       home: HomePage(),
     );
   }
@@ -65,10 +65,10 @@ class HomePage extends StatelessWidget {
             showCountryPicker(
               context: context,
               //Optional.  Can be used to exclude(remove) one ore more country from the countries list (optional).
-              exclude: <String>['KN', 'MF'],
-              favorite: <String>['SE'],
+              // exclude: <String>['KN', 'MF'],
+              // favorite: <String>['SE'],
               //Optional. Shows phone code before the country name.
-              showPhoneCode: true,
+              showPhoneCode: false,
               onSelect: (Country country) {
                 print('Select country: ${country.displayName}');
               },

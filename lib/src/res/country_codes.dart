@@ -51,6 +51,7 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Algeria (DZ)",
     "e164_key": "213-DZ-0"
   },
+
   {
     "e164_cc": "1",
     "iso2_cc": "AS",
@@ -155,19 +156,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Aruba (AW)",
     "e164_key": "297-AW-0"
   },
-  {
-    "e164_cc": "247",
-    "iso2_cc": "AC",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "Ascension Island",
-    "example": "",
-    "display_name": "Ascension Island (AC) [+247]",
-    "full_example_with_plus_sign": null,
-    "display_name_no_e164_cc": "Ascension Island (AC)",
-    "e164_key": "247-AC-0"
-  },
+  // {
+  //   "e164_cc": "247",
+  //   "iso2_cc": "AC",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 1,
+  //   "name": "Ascension Island",
+  //   "example": "",
+  //   "display_name": "Ascension Island (AC) [+247]",
+  //   "full_example_with_plus_sign": null,
+  //   "display_name_no_e164_cc": "Ascension Island (AC)",
+  //   "e164_key": "247-AC-0"
+  // },
   {
     "e164_cc": "61",
     "iso2_cc": "AU",
@@ -402,30 +403,30 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "British Indian Ocean Territory (IO)",
     "e164_key": "246-IO-0"
   },
-  {
-    "e164_cc": "1",
-    "iso2_cc": "VG",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 2,
-    "name": "British Virgin Islands",
-    "example": "2843001234",
-    "display_name": "British Virgin Islands (VG) [+1]",
-    "full_example_with_plus_sign": "+12843001234",
-    "display_name_no_e164_cc": "British Virgin Islands (VG)",
-    "e164_key": "1-VG-0"
-  },
+  // {
+  //   "e164_cc": "1",
+  //   "iso2_cc": "VG",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 2,
+  //   "name": "British Virgin Islands",
+  //   "example": "2843001234",
+  //   "display_name": "British Virgin Islands (VG) [+1]",
+  //   "full_example_with_plus_sign": "+12843001234",
+  //   "display_name_no_e164_cc": "British Virgin Islands (VG)",
+  //   "e164_key": "1-VG-0"
+  // },
   {
     "e164_cc": "673",
     "iso2_cc": "BN",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Brunei",
+    "name": "Brunei Darussalam",
     "example": "7123456",
-    "display_name": "Brunei (BN) [+673]",
+    "display_name": "Brunei Darussalam (BN) [+673]",
     "full_example_with_plus_sign": "+6737123456",
-    "display_name_no_e164_cc": "Brunei (BN)",
+    "display_name_no_e164_cc": "Brunei Darussalam (BN)",
     "e164_key": "673-BN-0"
   },
   {
@@ -519,19 +520,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Cape Verde (CV)",
     "e164_key": "238-CV-0"
   },
-  {
-    "e164_cc": "599",
-    "iso2_cc": "BQ",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "Caribbean Netherlands",
-    "example": "3181234",
-    "display_name": "Caribbean Netherlands (BQ) [+599]",
-    "full_example_with_plus_sign": "+5993181234",
-    "display_name_no_e164_cc": "Caribbean Netherlands (BQ)",
-    "e164_key": "599-BQ-0"
-  },
+  // {
+  //   "e164_cc": "599",
+  //   "iso2_cc": "BQ",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 1,
+  //   "name": "Caribbean Netherlands",
+  //   "example": "3181234",
+  //   "display_name": "Caribbean Netherlands (BQ) [+599]",
+  //   "full_example_with_plus_sign": "+5993181234",
+  //   "display_name_no_e164_cc": "Caribbean Netherlands (BQ)",
+  //   "e164_key": "599-BQ-0"
+  // },
   {
     "e164_cc": "1",
     "iso2_cc": "KY",
@@ -668,7 +669,7 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Republic of Congo",
+    "name": "Congo",
     "example": "061234567",
     "display_name": "Republic of Congo (CG) [+242]",
     "full_example_with_plus_sign": "+242061234567",
@@ -740,19 +741,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Cuba (CU)",
     "e164_key": "53-CU-0"
   },
-  {
-    "e164_cc": "599",
-    "iso2_cc": "CW",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "Curaçao",
-    "example": "95181234",
-    "display_name": "Curaçao (CW) [+599]",
-    "full_example_with_plus_sign": "+59995181234",
-    "display_name_no_e164_cc": "Curaçao (CW)",
-    "e164_key": "599-CW-0"
-  },
+  // {
+  //   "e164_cc": "599",
+  //   "iso2_cc": "CW",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 1,
+  //   "name": "Curaçao",
+  //   "example": "95181234",
+  //   "display_name": "Curaçao (CW) [+599]",
+  //   "full_example_with_plus_sign": "+59995181234",
+  //   "display_name_no_e164_cc": "Curaçao (CW)",
+  //   "e164_key": "599-CW-0"
+  // },
   {
     "e164_cc": "357",
     "iso2_cc": "CY",
@@ -831,19 +832,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Dominican Republic (DO)",
     "e164_key": "1-DO-0"
   },
-  {
-    "e164_cc": "670",
-    "iso2_cc": "TL",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "East Timor",
-    "example": "77212345",
-    "display_name": "East Timor (TL) [+670]",
-    "full_example_with_plus_sign": "+67077212345",
-    "display_name_no_e164_cc": "East Timor (TL)",
-    "e164_key": "670-TL-0"
-  },
+  // {
+  //   "e164_cc": "670",
+  //   "iso2_cc": "TL",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 1,
+  //   "name": "East Timor",
+  //   "example": "77212345",
+  //   "display_name": "East Timor (TL) [+670]",
+  //   "full_example_with_plus_sign": "+67077212345",
+  //   "display_name_no_e164_cc": "East Timor (TL)",
+  //   "e164_key": "670-TL-0"
+  // },
   {
     "e164_cc": "593",
     "iso2_cc": "EC",
@@ -922,19 +923,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Estonia (EE)",
     "e164_key": "372-EE-0"
   },
-  {
-    "e164_cc": "268",
-    "iso2_cc": "SZ",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "Eswatini",
-    "example": "76123456",
-    "display_name": "Eswatini (SZ) [+268]",
-    "full_example_with_plus_sign": "+26876123456",
-    "display_name_no_e164_cc": "Eswatini (SZ)",
-    "e164_key": "268-SZ-0"
-  },
+  // {
+  //   "e164_cc": "268",
+  //   "iso2_cc": "SZ",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 1,
+  //   "name": "Eswatini",
+  //   "example": "76123456",
+  //   "display_name": "Eswatini (SZ) [+268]",
+  //   "full_example_with_plus_sign": "+26876123456",
+  //   "display_name_no_e164_cc": "Eswatini (SZ)",
+  //   "e164_key": "268-SZ-0"
+  // },
   {
     "e164_cc": "251",
     "iso2_cc": "ET",
@@ -1208,19 +1209,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Guernsey (GG)",
     "e164_key": "44-GG-0"
   },
-  {
-    "e164_cc": "224",
-    "iso2_cc": "GN",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "Guinea Conakry",
-    "example": "60201234",
-    "display_name": "Guinea Conakry (GN) [+224]",
-    "full_example_with_plus_sign": "+22460201234",
-    "display_name_no_e164_cc": "Guinea Conakry (GN)",
-    "e164_key": "224-GN-0"
-  },
+  // {
+  //   "e164_cc": "224",
+  //   "iso2_cc": "GN",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 1,
+  //   "name": "Guinea Conakry",
+  //   "example": "60201234",
+  //   "display_name": "Guinea Conakry (GN) [+224]",
+  //   "full_example_with_plus_sign": "+22460201234",
+  //   "display_name_no_e164_cc": "Guinea Conakry (GN)",
+  //   "e164_key": "224-GN-0"
+  // },
   {
     "e164_cc": "245",
     "iso2_cc": "GW",
@@ -1559,19 +1560,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Kyrgyzstan (KG)",
     "e164_key": "996-KG-0"
   },
-  {
-    "e164_cc": "856",
-    "iso2_cc": "LA",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "Laos",
-    "example": "2023123456",
-    "display_name": "Laos (LA) [+856]",
-    "full_example_with_plus_sign": "+8562023123456",
-    "display_name_no_e164_cc": "Laos (LA)",
-    "e164_key": "856-LA-0"
-  },
+  // {
+  //   "e164_cc": "856",
+  //   "iso2_cc": "LA",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 1,
+  //   "name": "Laos",
+  //   "example": "2023123456",
+  //   "display_name": "Laos (LA) [+856]",
+  //   "full_example_with_plus_sign": "+8562023123456",
+  //   "display_name_no_e164_cc": "Laos (LA)",
+  //   "e164_key": "856-LA-0"
+  // },
   {
     "e164_cc": "371",
     "iso2_cc": "LV",
@@ -1624,19 +1625,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Liberia (LR)",
     "e164_key": "231-LR-0"
   },
-  {
-    "e164_cc": "218",
-    "iso2_cc": "LY",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "Libya",
-    "example": "912345678",
-    "display_name": "Libya (LY) [+218]",
-    "full_example_with_plus_sign": "+218912345678",
-    "display_name_no_e164_cc": "Libya (LY)",
-    "e164_key": "218-LY-0"
-  },
+  // {
+  //   "e164_cc": "218",
+  //   "iso2_cc": "LY",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 1,
+  //   "name": "Libya",
+  //   "example": "912345678",
+  //   "display_name": "Libya (LY) [+218]",
+  //   "full_example_with_plus_sign": "+218912345678",
+  //   "display_name_no_e164_cc": "Libya (LY)",
+  //   "e164_key": "218-LY-0"
+  // },
   {
     "e164_cc": "423",
     "iso2_cc": "LI",
@@ -1695,7 +1696,7 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Macedonia",
+    "name": "The Republic of North Macedonia",
     "example": "72345678",
     "display_name": "Macedonia (MK) [+389]",
     "full_example_with_plus_sign": "+38972345678",
@@ -1864,9 +1865,9 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Micronesia",
+    "name": "Micronesia, Federated States of",
     "example": "3501234",
-    "display_name": "Micronesia (FM) [+691]",
+    "display_name": "Micronesia, Federated States of (FM) [+691]",
     "full_example_with_plus_sign": "+6913501234",
     "display_name_no_e164_cc": "Micronesia (FM)",
     "e164_key": "691-FM-0"
@@ -1877,11 +1878,11 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Moldova",
+    "name": "Moldova, Republic of",
     "example": "65012345",
-    "display_name": "Moldova (MD) [+373]",
+    "display_name": "Moldova, Republic of (MD) [+373]",
     "full_example_with_plus_sign": "+37365012345",
-    "display_name_no_e164_cc": "Moldova (MD)",
+    "display_name_no_e164_cc": "Moldova, Republic of (MD)",
     "e164_key": "373-MD-0"
   },
   {
@@ -2378,19 +2379,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Rwanda (RW)",
     "e164_key": "250-RW-0"
   },
-  {
-    "e164_cc": "590",
-    "iso2_cc": "BL",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 2,
-    "name": "Saint Barthélemy",
-    "example": "690221234",
-    "display_name": "Saint Barthélemy (BL) [+590]",
-    "full_example_with_plus_sign": "+590690221234",
-    "display_name_no_e164_cc": "Saint Barthélemy (BL)",
-    "e164_key": "590-BL-0"
-  },
+  // {
+  //   "e164_cc": "590",
+  //   "iso2_cc": "BL",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 2,
+  //   "name": "Saint Barthélemy",
+  //   "example": "690221234",
+  //   "display_name": "Saint Barthélemy (BL) [+590]",
+  //   "full_example_with_plus_sign": "+590690221234",
+  //   "display_name_no_e164_cc": "Saint Barthélemy (BL)",
+  //   "e164_key": "590-BL-0"
+  // },
   {
     "e164_cc": "290",
     "iso2_cc": "SH",
@@ -2430,19 +2431,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "St. Lucia (LC)",
     "e164_key": "1-LC-0"
   },
-  {
-    "e164_cc": "590",
-    "iso2_cc": "MF",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 2,
-    "name": "Saint Martin",
-    "example": "690221234",
-    "display_name": "Saint Martin (MF) [+590]",
-    "full_example_with_plus_sign": "+590690221234",
-    "display_name_no_e164_cc": "Saint Martin (MF)",
-    "e164_key": "590-MF-0"
-  },
+  // {
+  //   "e164_cc": "590",
+  //   "iso2_cc": "MF",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 2,
+  //   "name": "Saint Martin",
+  //   "example": "690221234",
+  //   "display_name": "Saint Martin (MF) [+590]",
+  //   "full_example_with_plus_sign": "+590690221234",
+  //   "display_name_no_e164_cc": "Saint Martin (MF)",
+  //   "e164_key": "590-MF-0"
+  // },
   {
     "e164_cc": "508",
     "iso2_cc": "PM",
@@ -2456,19 +2457,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Saint Pierre and Miquelon (PM)",
     "e164_key": "508-PM-0"
   },
-  {
-    "e164_cc": "1",
-    "iso2_cc": "VC",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 2,
-    "name": "St. Vincent",
-    "example": "7844301234",
-    "display_name": "St. Vincent (VC) [+1]",
-    "full_example_with_plus_sign": "+17844301234",
-    "display_name_no_e164_cc": "St. Vincent (VC)",
-    "e164_key": "1-VC-0"
-  },
+  // {
+  //   "e164_cc": "1",
+  //   "iso2_cc": "VC",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 2,
+  //   "name": "St. Vincent",
+  //   "example": "7844301234",
+  //   "display_name": "St. Vincent (VC) [+1]",
+  //   "full_example_with_plus_sign": "+17844301234",
+  //   "display_name_no_e164_cc": "St. Vincent (VC)",
+  //   "e164_key": "1-VC-0"
+  // },
   {
     "e164_cc": "685",
     "iso2_cc": "WS",
@@ -2586,19 +2587,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Singapore (SG)",
     "e164_key": "65-SG-0"
   },
-  {
-    "e164_cc": "1",
-    "iso2_cc": "SX",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 2,
-    "name": "Sint Maarten",
-    "example": "7215205678",
-    "display_name": "Sint Maarten (SX) [+1]",
-    "full_example_with_plus_sign": "+17215205678",
-    "display_name_no_e164_cc": "Sint Maarten (SX)",
-    "e164_key": "1-SX-0"
-  },
+  // {
+  //   "e164_cc": "1",
+  //   "iso2_cc": "SX",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 2,
+  //   "name": "Sint Maarten",
+  //   "example": "7215205678",
+  //   "display_name": "Sint Maarten (SX) [+1]",
+  //   "full_example_with_plus_sign": "+17215205678",
+  //   "display_name_no_e164_cc": "Sint Maarten (SX)",
+  //   "e164_key": "1-SX-0"
+  // },
   {
     "e164_cc": "421",
     "iso2_cc": "SK",
@@ -2795,19 +2796,19 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Switzerland (CH)",
     "e164_key": "41-CH-0"
   },
-  {
-    "e164_cc": "963",
-    "iso2_cc": "SY",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "Syria",
-    "example": "944567890",
-    "display_name": "Syria (SY) [+963]",
-    "full_example_with_plus_sign": "+963944567890",
-    "display_name_no_e164_cc": "Syria (SY)",
-    "e164_key": "963-SY-0"
-  },
+  // {
+  //   "e164_cc": "963",
+  //   "iso2_cc": "SY",
+  //   "e164_sc": 0,
+  //   "geographic": true,
+  //   "level": 1,
+  //   "name": "Syria",
+  //   "example": "944567890",
+  //   "display_name": "Syria (SY) [+963]",
+  //   "full_example_with_plus_sign": "+963944567890",
+  //   "display_name_no_e164_cc": "Syria (SY)",
+  //   "e164_key": "963-SY-0"
+  // },
   {
     "e164_cc": "886",
     "iso2_cc": "TW",
@@ -2840,11 +2841,11 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Tanzania",
+    "name": "Tanzania, United Republic of",
     "example": "612345678",
-    "display_name": "Tanzania (TZ) [+255]",
+    "display_name": "Tanzania, United Republic of (TZ) [+255]",
     "full_example_with_plus_sign": "+255612345678",
-    "display_name_no_e164_cc": "Tanzania (TZ)",
+    "display_name_no_e164_cc": "Tanzania, United Republic of (TZ)",
     "e164_key": "255-TZ-0"
   },
   {
@@ -3100,7 +3101,7 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Vatican City",
+    "name": "Holy See(Vatican City State) ",
     "example": "",
     "display_name": "Vatican City (VA) [+379]",
     "full_example_with_plus_sign": null,
@@ -3197,5 +3198,218 @@ final List<Map<String, dynamic>> countryCodes = [
     "full_example_with_plus_sign": "+263711234567",
     "display_name_no_e164_cc": "Zimbabwe (ZW)",
     "e164_key": "263-ZW-0"
-  }
+  },
+
+  //--------->>>>
+  {
+    "e164_cc": "1",
+    "iso2_cc": "AQ",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Antarctica",
+    "example": "2684641234",
+    "display_name": "Antigua and Barbuda (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "Antigua and Barbuda (AG)",
+    "e164_key": "1-AG-0"
+  },
+
+  {
+    "e164_cc": "1",
+    "iso2_cc": "BV",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Bouvet Island",
+    "example": "2684641234",
+    "display_name": "Antigua and Barbuda (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "Antigua and Barbuda (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "TF",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "French Southern Territories",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+
+  {
+    "e164_cc": "1",
+    "iso2_cc": "GN",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Guinea",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "LAO",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Lao People's Democratic Republic",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "LAJ",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Libyan Arab Jamahiriya",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "ANT",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Netherlands Antilles",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "PCN",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Pitcairn",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "SKN",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Saint Kitts and Nevis",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "SLC",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Saint Lucia",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "SVC",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Saint Vincent and The Grenadines",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "GB-SCT",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Scotland",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "SWZ",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Swaziland",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "SYA",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Syrian Arab Republic",
+    "example": "2684641234",
+    "display_name": "French Southern Territories (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "French Southern Territories (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "TML",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Timor-leste",
+    "example": "2684641234",
+    "display_name": "Timor-leste (AG) [+1]",
+    "full_example_with_plus_sign": "+12684641234",
+    "display_name_no_e164_cc": "Timor-lestes (AG)",
+    "e164_key": "1-AG-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "UMI",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "United States Minor Outlying Islands",
+    "example": "2684641234",
+    "display_name": "United States Minor Outlying Islands (AG) [+1]",
+    "full_example_with_plus_sign": "United States Minor Outlying Islands",
+    "display_name_no_e164_cc": "United States Minor Outlying Islands (AG)",
+    "e164_key": "1-AG-0"
+  },
+  //--------->>>>
 ];
