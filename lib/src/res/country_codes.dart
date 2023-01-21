@@ -656,11 +656,11 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Democratic Republic Congo",
+    "name": "Congo, The Democratic Republic of The",
     "example": "991234567",
-    "display_name": "Democratic Republic Congo (CD) [+243]",
+    "display_name": "Congo, The Democratic Republic of The (CD) [+243]",
     "full_example_with_plus_sign": "+243991234567",
-    "display_name_no_e164_cc": "Democratic Republic Congo (CD)",
+    "display_name_no_e164_cc": "Congo, The Democratic Republic of The (CD)",
     "e164_key": "243-CD-0"
   },
   {
