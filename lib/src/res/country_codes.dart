@@ -2626,19 +2626,6 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Slovenia (SI)",
     "e164_key": "386-SI-0"
   },
-  {
-    "e164_cc": "677",
-    "iso2_cc": "SB",
-    "e164_sc": 0,
-    "geographic": true,
-    "level": 1,
-    "name": "Solomon Islands",
-    "example": "7421234",
-    "display_name": "Solomon Islands (SB) [+677]",
-    "full_example_with_plus_sign": "+6777421234",
-    "display_name_no_e164_cc": "Solomon Islands (SB)",
-    "e164_key": "677-SB-0"
-  },
    {
     "e164_cc": "677",
     "iso2_cc": "SB",
@@ -2658,7 +2645,7 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "R",
+    "name": "Republic of Somaliland",
     "example": "90792024",
     "display_name": "Somalia (SO) [+252]",
     "full_example_with_plus_sign": "+25290792024",
