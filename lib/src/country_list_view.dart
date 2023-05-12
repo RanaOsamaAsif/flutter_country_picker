@@ -186,7 +186,7 @@ class _CountryListViewState extends State<CountryListView> {
           Navigator.pop(context);
         },
         child: Padding(
-          padding: const EdgeInsets.symmetric(vertical: 5.0),
+          padding: const EdgeInsets.symmetric(vertical: 10.0),
           child: Row(
             children: <Widget>[
               Row(
@@ -229,9 +229,7 @@ class _CountryListViewState extends State<CountryListView> {
       // the conditional 50 prevents irregularities caused by the flags in RTL mode
       width: isRtl ? 50 : null,
       child: Text(
-        country.iswWorldWide
-            ? '\uD83C\uDF0D'
-            : Utils.countryCodeToEmoji(country.countryCode),
+        '\uD83C\uDF0D',
         style: TextStyle(
           fontSize: widget.countryListTheme?.flagSize ?? 25,
         ),
