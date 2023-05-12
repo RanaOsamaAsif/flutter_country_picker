@@ -2639,18 +2639,18 @@ final List<Map<String, dynamic>> countryCodes = [
     "display_name_no_e164_cc": "Solomon Islands (SB)",
     "e164_key": "677-SB-0"
   },
-  {
-    "e164_cc": "252",
-    "iso2_cc": "SO",
+   {
+    "e164_cc": "677",
+    "iso2_cc": "SB",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Republic of Somaliland",
-    "example": "90792024",
-    "display_name": "Republic of Somaliland (SO) [+252]",
-    "full_example_with_plus_sign": "+25290792024",
-    "display_name_no_e164_cc": "Republic of Somaliland (SO)",
-    "e164_key": "252-SO-0"
+    "name": "Solomon Islands",
+    "example": "7421234",
+    "display_name": "Solomon Islands (SB) [+677]",
+    "full_example_with_plus_sign": "+6777421234",
+    "display_name_no_e164_cc": "Solomon Islands (SB)",
+    "e164_key": "677-SB-0"
   },
   {
     "e164_cc": "252",
